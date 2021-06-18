@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "80912569349",
+    "project_id": "chatapp-c4cc4",
+    "storage_bucket": "chatapp-c4cc4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:80912569349:android:94085cd19c942229e5f86c",
+        "android_client_info": {
+          "package_name": "com.sagar.chatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "80912569349-lmm1po7c3sq8a0p4fnaobctsrp7v1i1n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAy9cj5Pd_uQr3jqssarM8e1VEGgDZfLv4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "80912569349-lmm1po7c3sq8a0p4fnaobctsrp7v1i1n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
